@@ -1,0 +1,7 @@
+voiture
+chien
+chat
+ordinateur
+oreil
+pied
+tête
